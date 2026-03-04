@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 E-Commerce Sales Analysis — Olist Dataset
 
 **Tools:** Python · Pandas · Matplotlib · Seaborn · Power BI  
@@ -88,3 +89,7 @@ jupyter notebook ecommerce_analysis.ipynb
 ---
 
 *Part of my data analysis portfolio — more projects coming soon.*
+=======
+# ecommerce-sales-analysis
+Sales performance analysis using Python &amp; Power BI — Olist dataset
+>>>>>>> 06686e0b178ac4959d928c37fd18874bba069577
